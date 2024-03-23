@@ -1,0 +1,15 @@
+/* Reset CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align: center;
+    border: solid #2200FF;
+    color: red;
+    padding-top: 100px;
+}
